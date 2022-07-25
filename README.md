@@ -8,4 +8,4 @@ This version of connect four allows two computers to play against each other. Th
 
 ## Demo
 
-![Demo of two computers playing against each other] (/demogame.gif)
+![Demo of two computers playing against each other](/demogame.gif)
